@@ -1,3 +1,5 @@
+// Lecture 1 : Flowchart & Pseudocode + Installation
+
 #include <iostream>
 using namespace std;
 
